@@ -1,0 +1,34 @@
+常數
+define("PI",3.14159);
+
+define("MAXSIZE",5);
+
+變數 = --->指定符號 assignment
+X(左值,記憶體位址)=2 (右值,值)
+$x=$x+1
+
+$Y=3($代表PHP變數,通常用小寫)
+echo=$X+Y
+$X=5
+echo $X+$Y
+字面值
+
+echo 30+20
+2.56
+"this is a book"字串(字元)
+"你好"
+true/false (布林數)
+
+In PHP, keywords  不分大小寫
+//註解必須包含在php裡,否則會顯示在外
+
+**php註解 不能數字在前,可以加底線
+"" 會渲染出數值
+'' 則會顯示原本的文字
+
+Var_dump 會顯示型態
+strlen 計算幾個字
+//0827//
+git config --global user.name Richard
+git config --global user.email qq928076@gmail.com
+git clone https://github.com/skynettw/nkust-0826.git
